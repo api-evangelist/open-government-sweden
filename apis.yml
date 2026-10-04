@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Sweden
     description: "Sweden Government Open Data"
     humanURL: https://www.dataportal.se/en/dataservice/91_29789/api-for-the-statistical-database
-    baseURL: https://www.dataportal.se/en/dataservice/91_29789/api-for-the-statistical-database
     tags:
       - Government
     properties:
